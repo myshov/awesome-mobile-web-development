@@ -23,6 +23,7 @@ A curated list of useful articles, tutorials, tools dedicated to mobile web deve
     - [Touch Devices Should Not Be Judged By Their Size](https://css-tricks.com/touch-devices-not-judged-size/)
     - [Prevent Mobile Browser From Sleeping](https://davidwalsh.name/wake-lock-shim)
     - [Responsive Web Design – What It Is And How To Use It](https://www.smashingmagazine.com/2011/01/guidelines-for-responsive-web-design/)
+    - [How To Poison The Mobile User](https://www.smashingmagazine.com/2016/10/how-to-poison-the-mobile-user/)
 - Talks
     - [Instant Loading: Building offline-first Progressive Web Apps - Jake Archibald](https://www.youtube.com/watch?v=cmGr0RszHc8)
     - [Future App Model: Advanced Service Worker - Jake Archibald](https://www.youtube.com/watch?v=J2dOTKBoTL4)
