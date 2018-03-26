@@ -9,14 +9,14 @@ A curated list of useful articles, tutorials, tools dedicated to mobile web deve
 - Platform Monitoring
     - [Can I Use](https://caniuse.com/)
     - [Mobile Browser Market Share](http://gs.statcounter.com/browser-market-share/mobile/)
-    - [Roadmap of Web Applications on Mobile](https://www.w3.org/2018/01/web-roadmaps/mobile/)
+    - [Standards for Web Applications on Mobile ](https://www.w3.org/Mobile/mobile-web-app-state)
     - [What Web Can Do Today](https://whatwebcando.today)
 - Documentation
     - [Mobile Web Best Practices (W3C)](https://www.w3.org/TR/mobile-bp/)
     - [Mobile Web Application Best Practices (W3C)](https://www.w3.org/TR/mwabp/)
     - [Mobile Web Development (MDN)](https://developer.mozilla.org/en-US/docs/Web/Guide/Mobile)
     - [Web Fundamentals (Google)](https://developers.google.com/web/fundamentals/)
-- Specifications
+- W3C Specifications
     - [Battery API](https://www.w3.org/TR/battery-status/)
     - [Date and time input types in HTML 5.1](https://www.w3.org/TR/html51/sec-forms.html#date-state-typedate)
     - [Generic Sensor API](https://www.w3.org/TR/generic-sensor/)
@@ -28,9 +28,11 @@ A curated list of useful articles, tutorials, tools dedicated to mobile web deve
     - [Vibration API](https://www.w3.org/TR/vibration/)
     - [Wake Lock Api](https://www.w3.org/TR/wake-lock/)
     - [Web Notifications](https://www.w3.org/TR/notifications/)
-- Interesting W3C Drafts
+- Interesting Stuff form W3C (Drafts and Other)
     - [Connection API](http://wicg.github.io/netinfo/)
+    - [Mobile Web Applications Current Status](https://www.w3.org/standards/techs/mobileapp#w3c_all)
     - [Web Bluetooth](https://webbluetoothcg.github.io/web-bluetooth/)
+    - [Web Design and Applicatons](https://www.w3.org/standards/webdesign/mobilweb.html)
     - [Web NFC API](https://w3c.github.io/web-nfc/)
 - Articles and Tutorials
     - [Autofill: What web devs should know, but don’t](https://cloudfour.com/thinks/autofill-what-web-devs-should-know-but-dont/)
