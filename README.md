@@ -15,7 +15,7 @@ A curated list of useful articles, tutorials, tools dedicated to mobile web deve
     - [Mobile Web Best Practices (W3C)](https://www.w3.org/TR/mobile-bp/)
     - [Mobile Web Application Best Practices (W3C)](https://www.w3.org/TR/mwabp/)
     - [Mobile Web Development (MDN)](https://developer.mozilla.org/en-US/docs/Web/Guide/Mobile)
-    - [Web Fundamentals from Google](https://developers.google.com/web/fundamentals/)
+    - [Web Fundamentals (Google)](https://developers.google.com/web/fundamentals/)
 - Articles and Tutorials
     - [Offline First (Awesome List)](https://github.com/pazguille/offline-first)
     - [Developing Mobile Web Applications: When, Why, and How](https://www.toptal.com/android/developing-mobile-web-apps-when-why-and-how)
