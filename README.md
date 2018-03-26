@@ -26,6 +26,7 @@ A curated list of useful articles, tutorials, tools dedicated to mobile web deve
     - [Presentation API](https://www.w3.org/TR/presentation-api/)
     - [Remote Playback API](https://www.w3.org/TR/remote-playback/)
     - [Vibration API](https://www.w3.org/TR/vibration/)
+    - [Wake Lock Api](https://www.w3.org/TR/wake-lock/)
     - [Web Notifications](https://www.w3.org/TR/notifications/)
 - Interesting W3C Drafts
     - [Connection API](http://wicg.github.io/netinfo/)
