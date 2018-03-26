@@ -16,6 +16,17 @@ A curated list of useful articles, tutorials, tools dedicated to mobile web deve
     - [Mobile Web Application Best Practices (W3C)](https://www.w3.org/TR/mwabp/)
     - [Mobile Web Development (MDN)](https://developer.mozilla.org/en-US/docs/Web/Guide/Mobile)
     - [Web Fundamentals (Google)](https://developers.google.com/web/fundamentals/)
+- Specifications
+    - [Battery API](https://www.w3.org/TR/battery-status/)
+    - [Date and time input types in HTML 5.1](https://www.w3.org/TR/html51/sec-forms.html#date-state-typedate)
+    - [Generic Sensor API](https://www.w3.org/TR/generic-sensor/)
+    - [Geolocation API](https://www.w3.org/TR/geolocation-API/)
+    - [HTML Media Capture](https://www.w3.org/TR/html-media-capture/)
+    - [Payment Request API](https://www.w3.org/TR/payment-request/)
+    - [Presentation API](https://www.w3.org/TR/presentation-api/)
+    - [Remote Playback API](https://www.w3.org/TR/remote-playback/)
+    - [Vibration API](https://www.w3.org/TR/vibration/)
+    - [Web Notifications](https://www.w3.org/TR/notifications/)
 - Articles and Tutorials
     - [Offline First (Awesome List)](https://github.com/pazguille/offline-first)
     - [Developing Mobile Web Applications: When, Why, and How](https://www.toptal.com/android/developing-mobile-web-apps-when-why-and-how)
