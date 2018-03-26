@@ -27,6 +27,10 @@ A curated list of useful articles, tutorials, tools dedicated to mobile web deve
     - [Remote Playback API](https://www.w3.org/TR/remote-playback/)
     - [Vibration API](https://www.w3.org/TR/vibration/)
     - [Web Notifications](https://www.w3.org/TR/notifications/)
+- Interesting W3C Drafts
+    - [Connection API](http://wicg.github.io/netinfo/)
+    - [Web Bluetooth](https://webbluetoothcg.github.io/web-bluetooth/)
+    - [Web NFC API](https://w3c.github.io/web-nfc/)
 - Articles and Tutorials
     - [Offline First (Awesome List)](https://github.com/pazguille/offline-first)
     - [Developing Mobile Web Applications: When, Why, and How](https://www.toptal.com/android/developing-mobile-web-apps-when-why-and-how)
