@@ -22,7 +22,7 @@ A curated list of useful articles, tutorials, tools dedicated to mobile web deve
     - [Article about Mobile Web on Wikipedia](https://en.wikipedia.org/wiki/Mobile_Web)
     - [MWI Initiative Announce](https://www.w3.org/2005/05/mwi-pressrelease)
     - [MWI Initiative Official Site](https://www.w3.org/Mobile/)
-- Interesting Stuff from W3C (Drafts, Specs and Other)
+- Interesting Stuff from W3C
     - [Battery API](https://www.w3.org/TR/battery-status/)
     - [Connection API](http://wicg.github.io/netinfo/)
     - [Date and time input types in HTML 5.1](https://www.w3.org/TR/html51/sec-forms.html#date-state-typedate)
@@ -40,10 +40,10 @@ A curated list of useful articles, tutorials, tools dedicated to mobile web deve
     - [Web NFC API](https://w3c.github.io/web-nfc/)
     - [Web Notifications](https://www.w3.org/TR/notifications/)
 - Platform Monitoring
-    - [Can I Use](https://caniuse.com/)
-    - [Mobile Browser Market Share](http://gs.statcounter.com/browser-market-share/mobile/)
-    - [Standards for Web Applications on Mobile ](https://www.w3.org/Mobile/mobile-web-app-state)
-    - [What Web Can Do Today](https://whatwebcando.today)
+    - [Can I Use](https://caniuse.com/) - State of support of various web features in various browsers
+    - [Mobile Browser Market Share](http://gs.statcounter.com/browser-market-share/mobile/) - Market share between varioius platforms and countries
+    - [Standards for Web Applications on Mobile ](https://www.w3.org/Mobile/mobile-web-app-state) - Current state of mobile related W3C specifications
+    - [What Web Can Do Today](https://whatwebcando.today) - What your browser capable of
 - Talks
     - [Fundamentals of Mobile Web Development - Matt Gaunt](https://www.youtube.com/watch?v=z6dg_V22wV0)
     - [Future App Model: Advanced Service Worker - Jake Archibald](https://www.youtube.com/watch?v=J2dOTKBoTL4)
