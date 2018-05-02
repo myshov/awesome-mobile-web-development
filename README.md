@@ -51,9 +51,9 @@ A curated list of useful articles, tutorials, tools dedicated to mobile web deve
     - [Standards for Web Applications on Mobile ](https://www.w3.org/Mobile/mobile-web-app-state) - Current state of mobile related W3C specifications
     - [What Web Can Do Today](https://whatwebcando.today) - What your browser capable of
 - Talks
-    - [Fundamentals of Mobile Web Development - Matt Gaunt](https://www.youtube.com/watch?v=z6dg_V22wV0)
-    - [Future App Model: Advanced Service Worker - Jake Archibald](https://www.youtube.com/watch?v=J2dOTKBoTL4)
-    - [Instant Loading: Building offline-first Progressive Web Apps - Jake Archibald](https://www.youtube.com/watch?v=cmGr0RszHc8)
+    - [Fundamentals of Mobile Web Development](https://www.youtube.com/watch?v=z6dg_V22wV0) by Matt Gaunt
+    - [Future App Model: Advanced Service Worker](https://www.youtube.com/watch?v=J2dOTKBoTL4) by Jake Archibald
+    - [Instant Loading: Building offline-first Progressive Web Apps](https://www.youtube.com/watch?v=cmGr0RszHc8) by Jake Archibald
 - Tools
     - [Eruda](https://github.com/liriliri/eruda) - Console for mobile web browsers
     - [Lighthouse](https://github.com/GoogleChrome/lighthouse) - An analyzing tool for web apps and web pages
