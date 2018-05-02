@@ -50,8 +50,8 @@ A curated list of useful articles, tutorials, tools dedicated to mobile web deve
     - [Instant Loading: Building offline-first Progressive Web Apps - Jake Archibald](https://www.youtube.com/watch?v=cmGr0RszHc8)
 - Tools
     - [Eruda](https://github.com/liriliri/eruda) - Console for mobile web browsers
-    - [Lighthouse (Monitoring Tool)](https://github.com/GoogleChrome/lighthouse)
-    - [PageSpeed (Webserver Modules That Optimize Your Site Automatically)](https://www.modpagespeed.com/)
-    - [Web Inspector Remote (Weinre)](https://www.npmjs.com/package/weinre)
-    - [Web Starter Kit](https://github.com/google/web-starter-kit)
-    - [Workbox (JavaScript Libraries for adding offline support to web apps)](https://developers.google.com/web/tools/workbox/)
+    - [Lighthouse](https://github.com/GoogleChrome/lighthouse) - An analyzing tool for web apps and web pages
+    - [PageSpeed](https://www.modpagespeed.com/) - Webserver modules that optimize your site automatically
+    - [Web Inspector Remote (Weinre)](https://www.npmjs.com/package/weinre) - Web inspector for debugging sites in non-mainstream browsers
+    - [Web Starter Kit](https://github.com/google/web-starter-kit) - A workflow for multi-device websites
+    - [Workbox](https://developers.google.com/web/tools/workbox/) - JavaScript libraries for adding offline support to web apps
