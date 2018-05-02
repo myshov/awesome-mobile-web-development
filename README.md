@@ -2,20 +2,26 @@
 
 A curated list of useful articles, tutorials, tools dedicated to mobile web development
 
-- History
-    - [Article about Mobile Web on Wikipedia](https://en.wikipedia.org/wiki/Mobile_Web)
-    - [MWI Initiative Announce](https://www.w3.org/2005/05/mwi-pressrelease)
-    - [MWI Initiative Official Site](https://www.w3.org/Mobile/)
-- Platform Monitoring
-    - [Can I Use](https://caniuse.com/)
-    - [Mobile Browser Market Share](http://gs.statcounter.com/browser-market-share/mobile/)
-    - [Standards for Web Applications on Mobile ](https://www.w3.org/Mobile/mobile-web-app-state)
-    - [What Web Can Do Today](https://whatwebcando.today)
+- Articles and Tutorials
+    - [Autofill: What web devs should know, but don’t](https://cloudfour.com/thinks/autofill-what-web-devs-should-know-but-dont/)
+    - [Developing Mobile Web Applications: When, Why, and How](https://www.toptal.com/android/developing-mobile-web-apps-when-why-and-how)
+    - [Guidelines For Mobile Web Development (Compilation Of Articles From Smashing Magazine)](https://www.smashingmagazine.com/guidelines-for-mobile-web-development/)
+    - [How To Poison The Mobile User](https://www.smashingmagazine.com/2016/10/how-to-poison-the-mobile-user/)
+    - [Mobile Search UX 8 Obstacles](https://blog.algolia.com/mobile-search-ux-8-obstacles/)
+    - [Observing Intersection Observers](https://davidwalsh.name/intersection-observers)
+    - [Offline First (Awesome List)](https://github.com/pazguille/offline-first)
+    - [Prevent Mobile Browser From Sleeping](https://davidwalsh.name/wake-lock-shim)
+    - [Responsive Web Design – What It Is And How To Use It](https://www.smashingmagazine.com/2011/01/guidelines-for-responsive-web-design/)
+    - [Touch Devices Should Not Be Judged By Their Size](https://css-tricks.com/touch-devices-not-judged-size/)
 - Documentation
     - [Mobile Web Best Practices (W3C)](https://www.w3.org/TR/mobile-bp/)
     - [Mobile Web Application Best Practices (W3C)](https://www.w3.org/TR/mwabp/)
     - [Mobile Web Development (MDN)](https://developer.mozilla.org/en-US/docs/Web/Guide/Mobile)
     - [Web Fundamentals (Google)](https://developers.google.com/web/fundamentals/)
+- History
+    - [Article about Mobile Web on Wikipedia](https://en.wikipedia.org/wiki/Mobile_Web)
+    - [MWI Initiative Announce](https://www.w3.org/2005/05/mwi-pressrelease)
+    - [MWI Initiative Official Site](https://www.w3.org/Mobile/)
 - Interesting Stuff from W3C (Drafts, Specs and Other)
     - [Battery API](https://www.w3.org/TR/battery-status/)
     - [Connection API](http://wicg.github.io/netinfo/)
@@ -33,17 +39,11 @@ A curated list of useful articles, tutorials, tools dedicated to mobile web deve
     - [Web Design and Applicatons](https://www.w3.org/standards/webdesign/mobilweb.html)
     - [Web NFC API](https://w3c.github.io/web-nfc/)
     - [Web Notifications](https://www.w3.org/TR/notifications/)
-- Articles and Tutorials
-    - [Autofill: What web devs should know, but don’t](https://cloudfour.com/thinks/autofill-what-web-devs-should-know-but-dont/)
-    - [Developing Mobile Web Applications: When, Why, and How](https://www.toptal.com/android/developing-mobile-web-apps-when-why-and-how)
-    - [Guidelines For Mobile Web Development (Compilation Of Articles From Smashing Magazine)](https://www.smashingmagazine.com/guidelines-for-mobile-web-development/)
-    - [How To Poison The Mobile User](https://www.smashingmagazine.com/2016/10/how-to-poison-the-mobile-user/)
-    - [Mobile Search UX 8 Obstacles](https://blog.algolia.com/mobile-search-ux-8-obstacles/)
-    - [Observing Intersection Observers](https://davidwalsh.name/intersection-observers)
-    - [Offline First (Awesome List)](https://github.com/pazguille/offline-first)
-    - [Prevent Mobile Browser From Sleeping](https://davidwalsh.name/wake-lock-shim)
-    - [Responsive Web Design – What It Is And How To Use It](https://www.smashingmagazine.com/2011/01/guidelines-for-responsive-web-design/)
-    - [Touch Devices Should Not Be Judged By Their Size](https://css-tricks.com/touch-devices-not-judged-size/)
+- Platform Monitoring
+    - [Can I Use](https://caniuse.com/)
+    - [Mobile Browser Market Share](http://gs.statcounter.com/browser-market-share/mobile/)
+    - [Standards for Web Applications on Mobile ](https://www.w3.org/Mobile/mobile-web-app-state)
+    - [What Web Can Do Today](https://whatwebcando.today)
 - Talks
     - [Fundamentals of Mobile Web Development - Matt Gaunt](https://www.youtube.com/watch?v=z6dg_V22wV0)
     - [Future App Model: Advanced Service Worker - Jake Archibald](https://www.youtube.com/watch?v=J2dOTKBoTL4)
