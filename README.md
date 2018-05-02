@@ -49,6 +49,7 @@ A curated list of useful articles, tutorials, tools dedicated to mobile web deve
     - [Future App Model: Advanced Service Worker - Jake Archibald](https://www.youtube.com/watch?v=J2dOTKBoTL4)
     - [Instant Loading: Building offline-first Progressive Web Apps - Jake Archibald](https://www.youtube.com/watch?v=cmGr0RszHc8)
 - Tools
+    - [Eruda](https://github.com/liriliri/eruda) - Console for mobile web browsers
     - [Lighthouse (Monitoring Tool)](https://github.com/GoogleChrome/lighthouse)
     - [PageSpeed (Webserver Modules That Optimize Your Site Automatically)](https://www.modpagespeed.com/)
     - [Web Inspector Remote (Weinre)](https://www.npmjs.com/package/weinre)
