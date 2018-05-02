@@ -14,8 +14,11 @@ A curated list of useful articles, tutorials, tools dedicated to mobile web deve
     - [Responsive Web Design – What It Is And How To Use It](https://www.smashingmagazine.com/2011/01/guidelines-for-responsive-web-design/)
     - [Touch Devices Should Not Be Judged By Their Size](https://css-tricks.com/touch-devices-not-judged-size/)
 - Books
-    - [High Performance Mobile Web: Best Practices for Optimizing Mobile Web Apps](https://www.amazon.com/High-Performance-Mobile-Web-Optimizing/dp/1491912553)
-    - [Mobile Design Pattern Gallery: UI Patterns for Smartphone Apps](https://www.amazon.com/Mobile-Design-Pattern-Gallery-Smartphone/dp/1449363636)
+    - [Going Offline](https://abookapart.com/products/going-offline) by Jeremy Keith
+    - [High Performance Mobile Web: Best Practices for Optimizing Mobile Web Apps](https://www.amazon.com/High-Performance-Mobile-Web-Optimizing/dp/1491912553) by Maximiliano Firtman
+    - [Mobile Design Pattern Gallery: UI Patterns for Smartphone Apps](https://www.amazon.com/Mobile-Design-Pattern-Gallery-Smartphone/dp/1449363636) by Theresa Neil
+    - [Mobile First](https://abookapart.com/products/mobile-first) by Luke Wroblewski
+    - [Responsive Web Design](https://abookapart.com/products/responsive-web-design) by Ethan Marcotte
 - Documentation
     - [Mobile Web Best Practices (W3C)](https://www.w3.org/TR/mobile-bp/)
     - [Mobile Web Application Best Practices (W3C)](https://www.w3.org/TR/mwabp/)
