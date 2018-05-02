@@ -40,6 +40,7 @@ A curated list of useful articles, tutorials, tools dedicated to mobile web deve
     - [Guidelines For Mobile Web Development (Compilation Of Articles From Smashing Magazine)](https://www.smashingmagazine.com/guidelines-for-mobile-web-development/)
     - [How To Poison The Mobile User](https://www.smashingmagazine.com/2016/10/how-to-poison-the-mobile-user/)
     - [Mobile Search UX 8 Obstacles](https://blog.algolia.com/mobile-search-ux-8-obstacles/)
+    - [Observing Intersection Observers](https://davidwalsh.name/intersection-observers)
     - [Offline First (Awesome List)](https://github.com/pazguille/offline-first)
     - [Prevent Mobile Browser From Sleeping](https://davidwalsh.name/wake-lock-shim)
     - [Responsive Web Design – What It Is And How To Use It](https://www.smashingmagazine.com/2011/01/guidelines-for-responsive-web-design/)
