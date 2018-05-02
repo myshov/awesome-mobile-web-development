@@ -28,7 +28,7 @@ A curated list of useful articles, tutorials, tools dedicated to mobile web deve
     - [Article about Mobile Web on Wikipedia](https://en.wikipedia.org/wiki/Mobile_Web)
     - [MWI Initiative Announce](https://www.w3.org/2005/05/mwi-pressrelease)
     - [MWI Initiative Official Site](https://www.w3.org/Mobile/)
-- Interesting Stuff from W3C
+- An Interesting Stuff from W3C
     - [Battery API](https://www.w3.org/TR/battery-status/)
     - [Connection API](http://wicg.github.io/netinfo/)
     - [Date and time input types in HTML 5.1](https://www.w3.org/TR/html51/sec-forms.html#date-state-typedate)
