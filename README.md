@@ -56,6 +56,8 @@ A curated list of useful articles, tutorials, tools dedicated to mobile web deve
     - [Fundamentals of Mobile Web Development](https://www.youtube.com/watch?v=z6dg_V22wV0) by Matt Gaunt
     - [Future App Model: Advanced Service Worker](https://www.youtube.com/watch?v=J2dOTKBoTL4) by Jake Archibald
     - [Instant Loading: Building offline-first Progressive Web Apps](https://www.youtube.com/watch?v=cmGr0RszHc8) by Jake Archibald
+    - [Mobile Web Performance](https://www.youtube.com/watch?v=AfVL4Uk_UAk) by Estelle Weyl
+    - [Mobile Web Performance Auditing](https://www.youtube.com/watch?v=WrA85a4ZIaM) by Paul Lewis
 - Tools
     - [Eruda](https://github.com/liriliri/eruda) - Console for mobile web browsers
     - [Lighthouse](https://github.com/GoogleChrome/lighthouse) - An analyzing tool for web apps and web pages
