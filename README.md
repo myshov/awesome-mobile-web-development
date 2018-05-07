@@ -18,6 +18,7 @@ A curated list of useful articles, tutorials, tools dedicated to mobile web deve
     - [High Performance Mobile Web: Best Practices for Optimizing Mobile Web Apps](https://www.amazon.com/High-Performance-Mobile-Web-Optimizing/dp/1491912553) by Maximiliano Firtman
     - [Mobile Design Pattern Gallery: UI Patterns for Smartphone Apps](https://www.amazon.com/Mobile-Design-Pattern-Gallery-Smartphone/dp/1449363636) by Theresa Neil
     - [Mobile First](https://abookapart.com/products/mobile-first) by Luke Wroblewski
+    - [Programming the Mobile Web](https://www.amazon.com/Programming-Mobile-Web-Reaching-BlackBerry/dp/1449334970/) by Maximiliano Firtman (book is a little bit old but still useful)
     - [Responsive Web Design](https://abookapart.com/products/responsive-web-design) by Ethan Marcotte
 - Documentation
     - [Mobile Web Best Practices (W3C)](https://www.w3.org/TR/mobile-bp/)
