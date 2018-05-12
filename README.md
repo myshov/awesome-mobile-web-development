@@ -7,6 +7,7 @@ A curated list of useful articles, tutorials, tools dedicated to mobile web deve
     - [60 FPS on Mobile Web](http://engineering.flipboard.com/2015/02/mobile-web) - how to make really fast mobile web site from Flipboard
     - [Animating the Mobile Web](https://engineeringblog.yelp.com/2015/01/animating-the-mobile-web.html) - a case study on achieving fast animations on mobile web from Yelp
     - [Autofill: What web devs should know, but don’t](https://cloudfour.com/thinks/autofill-what-web-devs-should-know-but-dont/) - everything you need to know about autofill forms
+    - [Designing Websites for iPhone X](https://webkit.org/blog/7929/designing-websites-for-iphone-x/) - how to deal with "the notch" on iPhone X
     - [Developing Mobile Web Applications: When, Why, and How](https://www.toptal.com/android/developing-mobile-web-apps-when-why-and-how) - a good high level overview of mobile web development
     - [Guidelines For Mobile Web Development](https://www.smashingmagazine.com/guidelines-for-mobile-web-development/) - a compilation Of good articles about mobile web development
     - [How To Poison The Mobile User](https://www.smashingmagazine.com/2016/10/how-to-poison-the-mobile-user/) - an overview of negative practices on mobile sites
