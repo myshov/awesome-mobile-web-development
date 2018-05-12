@@ -29,23 +29,20 @@ A curated list of useful articles, tutorials, tools dedicated to mobile web deve
     - [Mobile First](https://abookapart.com/products/mobile-first) by Luke Wroblewski
     - [Programming the Mobile Web](https://www.amazon.com/Programming-Mobile-Web-Reaching-BlackBerry/dp/1449334970/) by Maximiliano Firtman (book is a little bit old but still useful)
     - [Responsive Web Design](https://abookapart.com/products/responsive-web-design) by Ethan Marcotte
-- An Interesting Stuff from W3C
-    - [Battery API](https://www.w3.org/TR/battery-status/)
-    - [Connection API](http://wicg.github.io/netinfo/)
-    - [Date and time input types in HTML 5.1](https://www.w3.org/TR/html51/sec-forms.html#date-state-typedate)
-    - [Generic Sensor API](https://www.w3.org/TR/generic-sensor/)
-    - [Geolocation API](https://www.w3.org/TR/geolocation-API/)
-    - [HTML Media Capture](https://www.w3.org/TR/html-media-capture/)
-    - [Mobile Web Applications Current Status](https://www.w3.org/standards/techs/mobileapp#w3c_all)
-    - [Payment Request API](https://www.w3.org/TR/payment-request/)
-    - [Presentation API](https://www.w3.org/TR/presentation-api/)
-    - [Remote Playback API](https://www.w3.org/TR/remote-playback/)
-    - [Vibration API](https://www.w3.org/TR/vibration/)
-    - [Wake Lock Api](https://www.w3.org/TR/wake-lock/)
-    - [Web Bluetooth](https://webbluetoothcg.github.io/web-bluetooth/)
-    - [Web Design and Applicatons](https://www.w3.org/standards/webdesign/mobilweb.html)
-    - [Web NFC API](https://w3c.github.io/web-nfc/)
-    - [Web Notifications](https://www.w3.org/TR/notifications/)
+- Specifications from W3C
+    - [Battery API](https://www.w3.org/TR/battery-status/) - an access to information about battery
+    - [Connection API](http://wicg.github.io/netinfo/) - an access to information about connection
+    - [Generic Sensor API](https://www.w3.org/TR/generic-sensor/) - a spec for exposing sensor data
+    - [Geolocation API](https://www.w3.org/TR/geolocation-API/) - an access to geolocation
+    - [HTML Media Capture](https://www.w3.org/TR/html-media-capture/) - an user access to camera or microphone
+    - [Payment Request API](https://www.w3.org/TR/payment-request/) - a payment methods with minimal integration
+    - [Presentation API](https://www.w3.org/TR/presentation-api/) - an access to presentation displays
+    - [Remote Playback API](https://www.w3.org/TR/remote-playback/) - a controlling remote playback of media from a web page
+    - [Vibration API](https://www.w3.org/TR/vibration/) - an access to the vibration mechanism of the hosting device
+    - [Wake Lock Api](https://www.w3.org/TR/wake-lock/) - an access to request wake lock (prevents some aspect of the device from entering a power-saving state)
+    - [Web Bluetooth](https://webbluetoothcg.github.io/web-bluetooth/) - an API to discover and communicate with devices over the Bluetooth 4
+    - [Web NFC API](https://w3c.github.io/web-nfc/) - an access to Near Field Communication capabilities of the device
+    - [Web Notifications](https://www.w3.org/TR/notifications/) - an API for end-user notifications
 - Platform Monitoring
     - [Can I Use](https://caniuse.com/) - State of support of various web features in various browsers
     - [Mobile Browser Market Share](http://gs.statcounter.com/browser-market-share/mobile/) - Market share between varioius platforms and countries
