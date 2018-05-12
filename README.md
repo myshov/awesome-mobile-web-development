@@ -65,3 +65,10 @@ A curated list of useful articles, tutorials, tools dedicated to mobile web deve
     - [Web Inspector Remote (Weinre)](https://www.npmjs.com/package/weinre) - Web inspector for debugging sites in non-mainstream browsers
     - [Web Starter Kit](https://github.com/google/web-starter-kit) - A workflow for multi-device websites
     - [Workbox](https://developers.google.com/web/tools/workbox/) - JavaScript libraries for adding offline support to web apps
+
+
+## License
+
+[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [@myshov](https://github.com/myshov) has waived all copyright and related or neighboring rights to this work.
