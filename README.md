@@ -5,7 +5,7 @@ A curated list of useful articles, tutorials, tools dedicated to mobile web deve
 
 ## Table of Contents
 
-- [Articles, Documentaion, Tutorials](#articles-documentation-tutorials)
+- [Articles and Documentation](#articles-and-documentation)
 - [Books](#books)
 - [Specifications from W3C for Enhancing Mobile Web Experience](#specifications-from-w3c-for-enhancing-mobile-web-experience)
 - [Platform Monitoring](#platform-monitoring)
@@ -13,7 +13,7 @@ A curated list of useful articles, tutorials, tools dedicated to mobile web deve
 - [Tools](#tools)
 
 
-## Articles, Documentaion, Tutorials
+## Articles and Documentation
 
 - [300ms Tap Delay, Gone Away](https://developers.google.com/web/updates/2013/12/300ms-tap-delay-gone-away) - how to prevent 300 ms delay on tap
 - [60 FPS on Mobile Web](http://engineering.flipboard.com/2015/02/mobile-web) - how to make really fast mobile web site from Flipboard
