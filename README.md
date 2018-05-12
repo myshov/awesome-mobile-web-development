@@ -39,6 +39,7 @@ A curated list of useful articles, tutorials, tools dedicated to mobile web deve
     - [Presentation API](https://www.w3.org/TR/presentation-api/) - an access to presentation displays
     - [Remote Playback API](https://www.w3.org/TR/remote-playback/) - a controlling remote playback of media from a web page
     - [Vibration API](https://www.w3.org/TR/vibration/) - an access to the vibration mechanism of the hosting device
+    - [Visual Viewport API](https://wicg.github.io/visual-viewport/) - an acces to visual portion of a screen excluding on-screen keyboards, areas outside of a pinch-zoom area etc.
     - [Wake Lock Api](https://www.w3.org/TR/wake-lock/) - an access to request wake lock (prevents some aspect of the device from entering a power-saving state)
     - [Web Bluetooth](https://webbluetoothcg.github.io/web-bluetooth/) - an API to discover and communicate with devices over the Bluetooth 4
     - [Web NFC API](https://w3c.github.io/web-nfc/) - an access to Near Field Communication capabilities of the device
