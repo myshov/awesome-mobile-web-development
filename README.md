@@ -4,6 +4,8 @@ A curated list of useful articles, tutorials, tools dedicated to mobile web deve
 
 - Articles, Documentaion, Tutorials
     - [300ms Tap Delay, Gone Away](https://developers.google.com/web/updates/2013/12/300ms-tap-delay-gone-away) - how to prevent 300 ms delay on tap
+    - [60 FPS on Mobile Web](http://engineering.flipboard.com/2015/02/mobile-web) - how to make really fast mobile web site from Flipboard
+    - [Animating the Mobile Web](https://engineeringblog.yelp.com/2015/01/animating-the-mobile-web.html) - a case study on achieving fast animations on mobile web from Yelp
     - [Autofill: What web devs should know, but don’t](https://cloudfour.com/thinks/autofill-what-web-devs-should-know-but-dont/) - everything you need to know about autofill forms
     - [Developing Mobile Web Applications: When, Why, and How](https://www.toptal.com/android/developing-mobile-web-apps-when-why-and-how) - a good high level overview of mobile web development
     - [Guidelines For Mobile Web Development](https://www.smashingmagazine.com/guidelines-for-mobile-web-development/) - a compilation Of good articles about mobile web development
@@ -12,6 +14,7 @@ A curated list of useful articles, tutorials, tools dedicated to mobile web deve
     - [Mobile Web Best Practices](https://www.w3.org/TR/mobile-bp/) - a little bit old but still useful list of best practices for mobile web sites from W3C
     - [Mobile Web Application Best Practices](https://www.w3.org/TR/mwabp/) - a list of best parctices for mobile web applications from W3C
     - [Mobile Web Development](https://developer.mozilla.org/en-US/docs/Web/Guide/Mobile) - guideline (must read) from Mozzila about designing mobile web sites
+    - [Mobile Web Performance Checklist](https://www.oreilly.com/ideas/mobile-web-performance-checklist) - best practices for optimizing mobile web apps
     - [Observing Intersection Observers](https://davidwalsh.name/intersection-observers) - an introduction to intersection observers
     - [Offline First (Awesome List)](https://github.com/pazguille/offline-first) - an awesome list of offline first stuff
     - [Prevent Mobile Browser From Sleeping](https://davidwalsh.name/wake-lock-shim) - how to prevent your phone from sleeping
