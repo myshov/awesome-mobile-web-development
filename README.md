@@ -1,4 +1,4 @@
-# Awesome Mobile Web Development
+# Awesome Mobile Web Development [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of useful articles, tutorials, tools dedicated to mobile web development
 
