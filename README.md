@@ -24,12 +24,11 @@ A curated list of useful articles, tutorials, tools dedicated to mobile web deve
     - [Who Killed My Battery](https://mobisocial.stanford.edu/papers/boneh-www2012.pdf) - an interesting paper about power consumption of web sites
     - [Web Fundamentals](https://developers.google.com/web/fundamentals/) - a guideline from Google about creating good mobile web experience
 - Books
-    - [Going Offline](https://abookapart.com/products/going-offline) by Jeremy Keith
-    - [High Performance Mobile Web: Best Practices for Optimizing Mobile Web Apps](https://www.amazon.com/High-Performance-Mobile-Web-Optimizing/dp/1491912553) by Maximiliano Firtman
-    - [Mobile Design Pattern Gallery: UI Patterns for Smartphone Apps](https://www.amazon.com/Mobile-Design-Pattern-Gallery-Smartphone/dp/1449363636) by Theresa Neil
-    - [Mobile First](https://abookapart.com/products/mobile-first) by Luke Wroblewski
-    - [Programming the Mobile Web](https://www.amazon.com/Programming-Mobile-Web-Reaching-BlackBerry/dp/1449334970/) by Maximiliano Firtman (book is a little bit old but still useful)
-    - [Responsive Web Design](https://abookapart.com/products/responsive-web-design) by Ethan Marcotte
+    - [Going Offline](https://abookapart.com/products/going-offline) - a guide on building offline experience with service workers
+    - [High Performance Mobile Web: Best Practices for Optimizing Mobile Web Apps](https://www.amazon.com/High-Performance-Mobile-Web-Optimizing/dp/1491912553) - a book about perfromance of the web on mobile devices
+    - [Mobile Design Pattern Gallery: UI Patterns for Smartphone Apps](https://www.amazon.com/Mobile-Design-Pattern-Gallery-Smartphone/dp/1449363636) - UI patterns which can be useful for mobile web apps
+    - [Mobile First](https://abookapart.com/products/mobile-first) - how to design sites for mobile devices
+    - [Responsive Web Design](https://abookapart.com/products/responsive-web-design) - a book about responsive web design
 - Specifications from W3C
     - [Battery API](https://www.w3.org/TR/battery-status/) - an access to information about battery
     - [Connection API](http://wicg.github.io/netinfo/) - an access to information about connection
