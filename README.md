@@ -29,7 +29,7 @@ A curated list of useful articles, tutorials, tools dedicated to mobile web deve
     - [Mobile Design Pattern Gallery: UI Patterns for Smartphone Apps](https://www.amazon.com/Mobile-Design-Pattern-Gallery-Smartphone/dp/1449363636) - UI patterns which can be useful for mobile web apps
     - [Mobile First](https://abookapart.com/products/mobile-first) - how to design sites for mobile devices
     - [Responsive Web Design](https://abookapart.com/products/responsive-web-design) - a book about responsive web design
-- Specifications from W3C
+- Specifications from W3C for Enhancing Mobile Web Experience
     - [Battery API](https://www.w3.org/TR/battery-status/) - an access to information about battery
     - [Connection API](http://wicg.github.io/netinfo/) - an access to information about connection
     - [Generic Sensor API](https://www.w3.org/TR/generic-sensor/) - a spec for exposing sensor data
