@@ -56,8 +56,12 @@ A curated list of useful articles, tutorials, tools dedicated to mobile web deve
     - [Mobile Web Performance Auditing](https://www.youtube.com/watch?v=WrA85a4ZIaM) by Paul Lewis
 - Tools
     - [Eruda](https://github.com/liriliri/eruda) - Console for mobile web browsers
+    - [Interact.js](https://github.com/taye/interact.js) - Drag and drop, resizing and multi-touch gestures with inertia and snapping for modern browsers
+    - [Fastclick](https://github.com/ftlabs/fastclick) - Removing of 300ms delay in old browsers
     - [Lighthouse](https://github.com/GoogleChrome/lighthouse) - An analyzing tool for web apps and web pages
     - [PageSpeed](https://www.modpagespeed.com/) - Webserver modules that optimize your site automatically
+    - [Slideout](https://github.com/Mango/slideout) - Standalone and lightweight navigation menu for your mobile web apps
+    - [Swiper](https://github.com/nolimits4web/swiper/) - Most modern mobile touch slider with hardware accelerated transitions
     - [Web Inspector Remote (Weinre)](https://www.npmjs.com/package/weinre) - Web inspector for debugging sites in non-mainstream browsers
     - [Web Starter Kit](https://github.com/google/web-starter-kit) - A workflow for multi-device websites
     - [Workbox](https://developers.google.com/web/tools/workbox/) - JavaScript libraries for adding offline support to web apps
