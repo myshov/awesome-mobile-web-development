@@ -2,19 +2,23 @@
 
 A curated list of useful articles, tutorials, tools dedicated to mobile web development
 
-- Articles and Tutorials
+- Articles, Documentaion, Tutorials
     - [300ms Tap Delay, Gone Away](https://developers.google.com/web/updates/2013/12/300ms-tap-delay-gone-away) - how to prevent 300 ms delay on tap
     - [Autofill: What web devs should know, but don’t](https://cloudfour.com/thinks/autofill-what-web-devs-should-know-but-dont/) - everything you need to know about autofill forms
     - [Developing Mobile Web Applications: When, Why, and How](https://www.toptal.com/android/developing-mobile-web-apps-when-why-and-how) - a good high level overview of mobile web development
     - [Guidelines For Mobile Web Development](https://www.smashingmagazine.com/guidelines-for-mobile-web-development/) - a compilation Of good articles about mobile web development
     - [How To Poison The Mobile User](https://www.smashingmagazine.com/2016/10/how-to-poison-the-mobile-user/) - an overview of negative practices on mobile sites
     - [Mobile Search UX 8 Obstacles](https://blog.algolia.com/mobile-search-ux-8-obstacles/) - a series of articles about mobile search UX
+    - [Mobile Web Best Practices](https://www.w3.org/TR/mobile-bp/) - a little bit old but still useful list of best practices for mobile web sites from W3C
+    - [Mobile Web Application Best Practices](https://www.w3.org/TR/mwabp/) - a list of best parctices for mobile web applications from W3C
+    - [Mobile Web Development](https://developer.mozilla.org/en-US/docs/Web/Guide/Mobile) - guideline (must read) from Mozzila about designing mobile web sites
     - [Observing Intersection Observers](https://davidwalsh.name/intersection-observers) - an introduction to intersection observers
     - [Offline First (Awesome List)](https://github.com/pazguille/offline-first) - an awesome list of offline first stuff
     - [Prevent Mobile Browser From Sleeping](https://davidwalsh.name/wake-lock-shim) - how to prevent your phone from sleeping
     - [Responsive Web Design – What It Is And How To Use It](https://www.smashingmagazine.com/2011/01/guidelines-for-responsive-web-design/) - a good overview of techincs of responsive design
     - [Touch Devices Should Not Be Judged By Their Size](https://css-tricks.com/touch-devices-not-judged-size/) - a good overview of interaction media features
     - [Who Killed My Battery](https://mobisocial.stanford.edu/papers/boneh-www2012.pdf) - an interesting paper about power consumption of web sites
+    - [Web Fundamentals](https://developers.google.com/web/fundamentals/) - a guideline from Google about creating good mobile web experience
 - Books
     - [Going Offline](https://abookapart.com/products/going-offline) by Jeremy Keith
     - [High Performance Mobile Web: Best Practices for Optimizing Mobile Web Apps](https://www.amazon.com/High-Performance-Mobile-Web-Optimizing/dp/1491912553) by Maximiliano Firtman
@@ -22,15 +26,6 @@ A curated list of useful articles, tutorials, tools dedicated to mobile web deve
     - [Mobile First](https://abookapart.com/products/mobile-first) by Luke Wroblewski
     - [Programming the Mobile Web](https://www.amazon.com/Programming-Mobile-Web-Reaching-BlackBerry/dp/1449334970/) by Maximiliano Firtman (book is a little bit old but still useful)
     - [Responsive Web Design](https://abookapart.com/products/responsive-web-design) by Ethan Marcotte
-- Documentation
-    - [Mobile Web Best Practices (W3C)](https://www.w3.org/TR/mobile-bp/)
-    - [Mobile Web Application Best Practices (W3C)](https://www.w3.org/TR/mwabp/)
-    - [Mobile Web Development (MDN)](https://developer.mozilla.org/en-US/docs/Web/Guide/Mobile)
-    - [Web Fundamentals (Google)](https://developers.google.com/web/fundamentals/)
-- History
-    - [Article about Mobile Web on Wikipedia](https://en.wikipedia.org/wiki/Mobile_Web)
-    - [MWI Initiative Announce](https://www.w3.org/2005/05/mwi-pressrelease)
-    - [MWI Initiative Official Site](https://www.w3.org/Mobile/)
 - An Interesting Stuff from W3C
     - [Battery API](https://www.w3.org/TR/battery-status/)
     - [Connection API](http://wicg.github.io/netinfo/)
