@@ -16,12 +16,12 @@ A curated list of useful articles, tutorials, tools dedicated to mobile web deve
 ## Articles and Documentation
 
 - [300ms Tap Delay, Gone Away](https://developers.google.com/web/updates/2013/12/300ms-tap-delay-gone-away) - how to prevent 300 ms delay on tap
-- [60 FPS on Mobile Web](http://engineering.flipboard.com/2015/02/mobile-web) - how to make really fast mobile web site from Flipboard
-- [Animating the Mobile Web](https://engineeringblog.yelp.com/2015/01/animating-the-mobile-web.html) - a case study on achieving fast animations on mobile web from Yelp
+- [60 FPS on Mobile Web](http://engineering.flipboard.com/2015/02/mobile-web) - how to make really fast mobile web site (by Flipboard)
+- [Animating the Mobile Web](https://engineeringblog.yelp.com/2015/01/animating-the-mobile-web.html) - a case study on achieving fast animations on mobile web (by Yelp)
 - [Autofill: What web devs should know, but don’t](https://cloudfour.com/thinks/autofill-what-web-devs-should-know-but-dont/) - everything you need to know about autofill forms
 - [Designing Websites for iPhone X](https://webkit.org/blog/7929/designing-websites-for-iphone-x/) - how to deal with "the notch" on iPhone X
 - [Developing Mobile Web Applications: When, Why, and How](https://www.toptal.com/android/developing-mobile-web-apps-when-why-and-how) - a good high level overview of mobile web development
-- [Guidelines For Mobile Web Development](https://www.smashingmagazine.com/guidelines-for-mobile-web-development/) - a compilation Of good articles about mobile web development
+- [Guidelines For Mobile Web Development](https://www.smashingmagazine.com/guidelines-for-mobile-web-development/) - a compilation of good articles about mobile web development
 - [How To Poison The Mobile User](https://www.smashingmagazine.com/2016/10/how-to-poison-the-mobile-user/) - an overview of negative practices on mobile sites
 - [Mobile Search UX 8 Obstacles](https://blog.algolia.com/mobile-search-ux-8-obstacles/) - a series of articles about mobile search UX
 - [Mobile Web Best Practices](https://www.w3.org/TR/mobile-bp/) - a little bit old but still useful list of best practices for mobile web sites from W3C
@@ -31,7 +31,7 @@ A curated list of useful articles, tutorials, tools dedicated to mobile web deve
 - [Observing Intersection Observers](https://davidwalsh.name/intersection-observers) - an introduction to intersection observers
 - [Offline First (Awesome List)](https://github.com/pazguille/offline-first) - an awesome list of offline first stuff
 - [Prevent Mobile Browser From Sleeping](https://davidwalsh.name/wake-lock-shim) - how to prevent your phone from sleeping
-- [Responsive Web Design – What It Is And How To Use It](https://www.smashingmagazine.com/2011/01/guidelines-for-responsive-web-design/) - a good overview of techincs of responsive design
+- [Responsive Web Design – What It Is And How To Use It](https://www.smashingmagazine.com/2011/01/guidelines-for-responsive-web-design/) - a good overview of technics of responsive design
 - [Touch Devices Should Not Be Judged By Their Size](https://css-tricks.com/touch-devices-not-judged-size/) - a good overview of interaction media features
 - [Who Killed My Battery](https://mobisocial.stanford.edu/papers/boneh-www2012.pdf) - an interesting paper about power consumption of web sites
 - [Web Fundamentals](https://developers.google.com/web/fundamentals/) - a guideline from Google about creating good mobile web experience
