@@ -3,6 +3,7 @@
 A curated list of useful articles, tutorials, tools dedicated to mobile web development
 
 - Articles and Tutorials
+    - [300ms Tap Delay, Gone Away](https://developers.google.com/web/updates/2013/12/300ms-tap-delay-gone-away) - how to prevent 300 ms delay on tap
     - [Autofill: What web devs should know, but don’t](https://cloudfour.com/thinks/autofill-what-web-devs-should-know-but-dont/)
     - [Developing Mobile Web Applications: When, Why, and How](https://www.toptal.com/android/developing-mobile-web-apps-when-why-and-how)
     - [Guidelines For Mobile Web Development (Compilation Of Articles From Smashing Magazine)](https://www.smashingmagazine.com/guidelines-for-mobile-web-development/)
