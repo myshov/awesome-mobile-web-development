@@ -28,7 +28,7 @@ A curated list of useful articles, tutorials, tools dedicated to mobile web deve
 - [Mobile Search UX 8 Obstacles](https://blog.algolia.com/mobile-search-ux-8-obstacles/) - a series of articles about mobile search UX.
 - [Mobile Web Best Practices](https://www.w3.org/TR/mobile-bp/) - a little bit old but still useful list of best practices for mobile web sites from W3C.
 - [Mobile Web Application Best Practices](https://www.w3.org/TR/mwabp/) - a list of best parctices for mobile web applications from W3C.
-- [Mobile Web Development](https://developer.mozilla.org/en-US/docs/Web/Guide/Mobile) - guideline (must read) from Mozzila about designing mobile web sites.
+- [Mobile Web Development](https://developer.mozilla.org/en-US/docs/Web/Guide/Mobile) - guideline (must read) from Mozilla about designing mobile web sites.
 - [Mobile Web Performance Checklist](https://www.oreilly.com/ideas/mobile-web-performance-checklist) - best practices for optimizing mobile web apps.
 - [Observing Intersection Observers](https://davidwalsh.name/intersection-observers) - an introduction to intersection observers.
 - [Offline First (Awesome List)](https://github.com/pazguille/offline-first) - an awesome list of offline first stuff.
