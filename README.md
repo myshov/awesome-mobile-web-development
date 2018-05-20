@@ -25,6 +25,7 @@ A curated list of useful articles, tutorials, tools dedicated to mobile web deve
 - [Developing Mobile Web Applications: When, Why, and How](https://www.toptal.com/android/developing-mobile-web-apps-when-why-and-how) - a good high level overview of mobile web development.
 - [Guidelines For Mobile Web Development](https://www.smashingmagazine.com/guidelines-for-mobile-web-development/) - a compilation of good articles about mobile web development.
 - [How To Poison The Mobile User](https://www.smashingmagazine.com/2016/10/how-to-poison-the-mobile-user/) - an overview of negative practices on mobile sites.
+- [Learn AMP by Example](https://ampbyexample.com/) - a hands-on introduction to Accelerated Mobile Pages focusing on code and live samples.
 - [Mobile Search UX 8 Obstacles](https://blog.algolia.com/mobile-search-ux-8-obstacles/) - a series of articles about mobile search UX.
 - [Mobile Web Best Practices](https://www.w3.org/TR/mobile-bp/) - a little bit old but still useful list of best practices for mobile web sites from W3C.
 - [Mobile Web Application Best Practices](https://www.w3.org/TR/mwabp/) - a list of best parctices for mobile web applications from W3C.
