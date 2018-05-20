@@ -91,6 +91,7 @@ A curated list of useful articles, tutorials, tools dedicated to mobile web deve
 - [Fastclick](https://github.com/ftlabs/fastclick) - Removing of 300ms delay in old browsers.
 - [Lighthouse](https://github.com/GoogleChrome/lighthouse) - An analyzing tool for web apps and web pages.
 - [PageSpeed](https://www.modpagespeed.com/) - Webserver modules that optimize your site automatically.
+- [React Dates](https://github.com/airbnb/react-dates) - An easily internationalizable, mobile-friendly datepicker library for the web.
 - [Site Speed Checker](https://www.thinkwithgoogle.com/feature/mobile/) - Compare your mobile site speed with other sites.
 - [Slideout](https://github.com/Mango/slideout) - Standalone and lightweight navigation menu for your mobile web apps.
 - [Swiper](https://github.com/nolimits4web/swiper/) - Most modern mobile touch slider with hardware accelerated transitions.
