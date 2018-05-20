@@ -41,6 +41,7 @@ A curated list of useful articles, tutorials, tools dedicated to mobile web deve
 
 ## Books
 
+- [Brain Food Mobile Performance](http://www.awwwards.org/brainfood-mobile-performance-vol3.pdf) - a free small ebook on mobile performace from Awwwards.
 - [Going Offline](https://abookapart.com/products/going-offline) - a guide on building offline experience with service workers.
 - [High Performance Mobile Web: Best Practices for Optimizing Mobile Web Apps](https://www.amazon.com/High-Performance-Mobile-Web-Optimizing/dp/1491912553) - a book about perfromance of the web on mobile devices.
 - [Mobile Design Pattern Gallery: UI Patterns for Smartphone Apps](https://www.amazon.com/Mobile-Design-Pattern-Gallery-Smartphone/dp/1449363636) - UI patterns which can be useful for mobile web apps.
