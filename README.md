@@ -12,7 +12,7 @@ A curated list of useful articles, tutorials, tools dedicated to mobile web deve
 - [Specifications from W3C for Enhancing Mobile Web Experience](#specifications-from-w3c-for-enhancing-mobile-web-experience)
 - [Platform Monitoring](#platform-monitoring)
 - [Talks](#talks)
-- [Tools](#tools)
+- [Tools and Libraries](#tools-and-libraries)
 
 
 ## Articles and Documentation
@@ -85,7 +85,7 @@ A curated list of useful articles, tutorials, tools dedicated to mobile web deve
 - [Mobile Web Performance Auditing](https://www.youtube.com/watch?v=WrA85a4ZIaM) by Paul Lewis.
 
 
-## Tools
+## Tools and Libraries
 
 - [Eruda](https://github.com/liriliri/eruda) - Console for mobile web browsers.
 - [Interact.js](https://github.com/taye/interact.js) - Drag and drop, resizing and multi-touch gestures with inertia and snapping for modern browsers.
