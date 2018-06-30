@@ -5,7 +5,7 @@ A curated list of useful articles, tutorials and tools dedicated to mobile web d
 <a href="https://github.com/myshov/awesome-mobile-web-development/blob/master/CONTRIBUTION.md">Contribution Guidelines</a>
 
 
-## Table of Contents
+## Contents
 
 - [Articles and Documentation](#articles-and-documentation)
 - [Books](#books)
