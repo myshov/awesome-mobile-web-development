@@ -78,11 +78,11 @@ A curated list of useful articles, tutorials and tools dedicated to mobile web d
 
 ## Talks
 
-- [Fundamentals of Mobile Web Development](https://www.youtube.com/watch?v=z6dg_V22wV0) by Matt Gaunt.
-- [Future App Model: Advanced Service Worker](https://www.youtube.com/watch?v=J2dOTKBoTL4) by Jake Archibald.
-- [Instant Loading: Building offline-first Progressive Web Apps](https://www.youtube.com/watch?v=cmGr0RszHc8) by Jake Archibald.
-- [Mobile Web Performance](https://www.youtube.com/watch?v=AfVL4Uk_UAk) by Estelle Weyl.
-- [Mobile Web Performance Auditing](https://www.youtube.com/watch?v=WrA85a4ZIaM) by Paul Lewis.
+- [Fundamentals of Mobile Web Development](https://www.youtube.com/watch?v=z6dg_V22wV0) - overview of the best practices for mobile web development, by Matt Gaunt.
+- [Future App Model: Advanced Service Worker](https://www.youtube.com/watch?v=J2dOTKBoTL4) - the glimpse on how to optimize web apps and sites using streams and service workers and other new APIs, by Jake Archibald.
+- [Instant Loading: Building offline-first Progressive Web Apps](https://www.youtube.com/watch?v=cmGr0RszHc8) - introduction to service workers, by Jake Archibald.
+- [Mobile Web Performance](https://www.youtube.com/watch?v=_y5IzI_tpTw) - what to do on your site to achieve the best possible mobile experience, by Estelle Weyl.
+- [Mobile Web Performance Auditing](https://www.youtube.com/watch?v=WrA85a4ZIaM) - how to audit performance issues on the site, by Paul Lewis.
 
 
 ## Tools and Libraries
