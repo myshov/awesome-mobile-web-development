@@ -10,6 +10,7 @@ A curated list of useful articles, tutorials and tools dedicated to mobile web d
 - [Articles and Documentation](#articles-and-documentation)
 - [Books](#books)
 - [Specifications from W3C for Enhancing Mobile Web Experience](#specifications-from-w3c-for-enhancing-mobile-web-experience)
+- [Performance Auditing](#performance-auditing)
 - [Platform Monitoring](#platform-monitoring)
 - [Talks](#talks)
 - [Tools and Libraries](#tools-and-libraries)
@@ -68,6 +69,15 @@ A curated list of useful articles, tutorials and tools dedicated to mobile web d
 - [Web Notifications](https://www.w3.org/TR/notifications/) - on an API for end-user notifications.
 
 
+## Performance Auditing
+
+- [Lighthouse](https://github.com/GoogleChrome/lighthouse) - analyzing tool for web apps and web pages.
+- [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) - the tool that analyzes your page and gives recommendations for increasing downloading speed.
+- [PageSpeed](https://www.modpagespeed.com/) - web server modules that optimize your site automatically.
+- [Site Speed Checker](https://www.thinkwithgoogle.com/feature/mobile/) - compare the speed of your mobile site to others.
+- [Webpagetest](https://webpagetest.org/) - website speed test from multiple locations using real browsers and at real consumer connection speeds.
+
+
 ## Platform Monitoring
 
 - [Can I Use](https://caniuse.com/) - state of support of various web features in browsers.
@@ -90,10 +100,7 @@ A curated list of useful articles, tutorials and tools dedicated to mobile web d
 - [Eruda](https://github.com/liriliri/eruda) - console for mobile web browsers.
 - [Interact.js](https://github.com/taye/interact.js) - drag and drop, resizing and multi-touch gestures with inertia and snapping for modern browsers.
 - [Fastclick](https://github.com/ftlabs/fastclick) - removing of 300ms delay in old browsers.
-- [Lighthouse](https://github.com/GoogleChrome/lighthouse) - an analyzing tool for web apps and web pages.
-- [PageSpeed](https://www.modpagespeed.com/) - web server modules that optimize your site automatically.
 - [React Dates](https://github.com/airbnb/react-dates) - an easily internationalizable, mobile-friendly datepicker React library for the web.
-- [Site Speed Checker](https://www.thinkwithgoogle.com/feature/mobile/) - compare the speed of your mobile site to others.
 - [Slideout](https://github.com/Mango/slideout) - standalone and lightweight navigation menu for your mobile web apps.
 - [Swiper](https://github.com/nolimits4web/swiper/) - the most modern mobile touch slider with hardware accelerated transitions.
 - [Web Inspector Remote (Weinre)](https://www.npmjs.com/package/weinre) - web inspector for debugging sites in non-mainstream browsers.
