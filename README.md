@@ -26,7 +26,7 @@ A curated list of useful articles, tutorials and tools dedicated to mobile web d
 - [Developing Mobile Web Applications: When, Why, and How](https://www.toptal.com/android/developing-mobile-web-apps-when-why-and-how) - The good high-level overview of mobile web development.
 - [Guidelines For Mobile Web Development](https://www.smashingmagazine.com/guidelines-for-mobile-web-development/) - The compilation of good articles about mobile web development.
 - [How To Poison The Mobile User](https://www.smashingmagazine.com/2016/10/how-to-poison-the-mobile-user/) - An overview of negative practices on mobile sites.
-- [Learn AMP by Example](https://ampbyexample.com/) - A hands-on introduction to Accelerated Mobile Pages focusing on code and live samples.
+- [Learn AMP by Example](https://ampbyexample.com) - A hands-on introduction to Accelerated Mobile Pages focusing on code and live samples.
 - [Mobile Search UX 8 Obstacles](https://blog.algolia.com/mobile-search-ux-8-obstacles/) - Series of articles about mobile search UX.
 - [Mobile Web Best Practices](https://www.w3.org/TR/mobile-bp/) - A little bit out of date but still useful list of best practices for mobile websites from W3C.
 - [Mobile Web Application Best Practices](https://www.w3.org/TR/mwabp/) - The list of best practices for mobile web applications from W3C.
@@ -81,17 +81,17 @@ A curated list of useful articles, tutorials and tools dedicated to mobile web d
 ## Performance Auditing Tools
 
 - [Lighthouse](https://github.com/GoogleChrome/lighthouse) - Analyzing tool for web apps and web pages.
-- [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) - The tool that analyzes your page and gives recommendations for increasing downloading speed.
-- [PageSpeed](https://www.modpagespeed.com/) - Web server modules that optimize your site automatically.
-- [Site Speed Checker](https://www.thinkwithgoogle.com/feature/mobile/) - Compare the speed of your mobile site to others.
-- [Webpagetest](https://webpagetest.org/) - Website speed test from multiple locations using real browsers and at real consumer connection speeds.
+- [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights) - The tool that analyzes your page and gives recommendations for increasing downloading speed.
+- [PageSpeed](https://www.modpagespeed.com) - Web server modules that optimize your site automatically.
+- [Site Speed Checker](https://www.thinkwithgoogle.com/feature/mobile) - Compare the speed of your mobile site to others.
+- [Webpagetest](https://webpagetest.org) - Website speed test from multiple locations using real browsers and at real consumer connection speeds.
 
 
 ## Platform Monitoring
 
-- [Can I Use](https://caniuse.com/) - State of support of various web features in browsers.
-- [Mobile Browser Market Share](http://gs.statcounter.com/browser-market-share/mobile/) - Market share between various platforms and countries.
-- [Standards for Web Applications on Mobile ](https://www.w3.org/Mobile/mobile-web-app-state) - Current state of mobile-related W3C specifications.
+- [Can I Use](https://caniuse.com) - State of support of various web features in browsers.
+- [Mobile Browser Market Share](http://gs.statcounter.com/browser-market-share/mobile) - Market share between various platforms and countries.
+- [Standards for Web Applications on Mobile](https://www.w3.org/Mobile/mobile-web-app-state) - Current state of mobile-related W3C specifications.
 - [What Web Can Do Today](https://whatwebcando.today) - What your browser capable of.
 
 
@@ -103,7 +103,7 @@ A curated list of useful articles, tutorials and tools dedicated to mobile web d
 - [Fastclick](https://github.com/ftlabs/fastclick) - Removing of 300ms delay in old browsers.
 - [React Dates](https://github.com/airbnb/react-dates) - An easily internationalizable, mobile-friendly datepicker React library for the web.
 - [Slideout](https://github.com/Mango/slideout) - Standalone and lightweight navigation menu for your mobile web apps.
-- [Swiper](https://github.com/nolimits4web/swiper/) - The most modern mobile touch slider with hardware accelerated transitions.
+- [Swiper](https://github.com/nolimits4web/swiper) - The most modern mobile touch slider with hardware accelerated transitions.
 - [Web Inspector Remote (Weinre)](https://www.npmjs.com/package/weinre) - Web inspector for debugging sites in non-mainstream browsers.
 - [Web Starter Kit](https://github.com/google/web-starter-kit) - A workflow for multi-device websites.
 - [Workbox](https://developers.google.com/web/tools/workbox/) - JavaScript libraries for adding offline support to web apps.
