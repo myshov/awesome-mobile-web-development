@@ -11,9 +11,9 @@ A curated list of useful articles, tutorials and tools dedicated to mobile web d
 - [Books](#books)
 - [Specifications from W3C for Enhancing Mobile Web Experience](#specifications-from-w3c-for-enhancing-mobile-web-experience)
 - [Talks](#talks)
-- [Performance Auditing](#performance-auditing)
+- [Performance Auditing Tools](#performance-auditing-tools)
 - [Platform Monitoring](#platform-monitoring)
-- [Tools and Libraries](#tools-and-libraries)
+- [Other Useful Tools and Libraries](#other-useful-tools-and-libraries)
 
 
 ## Articles and Documentation
@@ -78,7 +78,7 @@ A curated list of useful articles, tutorials and tools dedicated to mobile web d
 - [Mobile Web Performance Auditing](https://www.youtube.com/watch?v=WrA85a4ZIaM) - how to audit performance issues on the site, by Paul Lewis.
 
 
-## Performance Auditing
+## Performance Auditing Tools
 
 - [Lighthouse](https://github.com/GoogleChrome/lighthouse) - analyzing tool for web apps and web pages.
 - [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) - the tool that analyzes your page and gives recommendations for increasing downloading speed.
@@ -95,7 +95,7 @@ A curated list of useful articles, tutorials and tools dedicated to mobile web d
 - [What Web Can Do Today](https://whatwebcando.today) - what your browser capable of.
 
 
-## Tools and Libraries
+## Other Useful Tools and Libraries
 
 - [Eruda](https://github.com/liriliri/eruda) - console for mobile web browsers.
 - [Interact.js](https://github.com/taye/interact.js) - drag and drop, resizing and multi-touch gestures with inertia and snapping for modern browsers.
