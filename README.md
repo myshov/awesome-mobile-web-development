@@ -97,6 +97,7 @@ A curated list of useful articles, tutorials and tools dedicated to mobile web d
 
 ## Other Useful Tools and Libraries
 
+- [Browsersync](https://browsersync.io) - Time-saving synchronised browser testing.
 - [Eruda](https://github.com/liriliri/eruda) - Console for mobile web browsers.
 - [Interact.js](https://github.com/taye/interact.js) - Drag and drop, resizing and multi-touch gestures with inertia and snapping for modern browsers.
 - [Fastclick](https://github.com/ftlabs/fastclick) - Removing of 300ms delay in old browsers.
