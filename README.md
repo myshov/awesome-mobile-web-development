@@ -10,9 +10,9 @@ A curated list of useful articles, tutorials and tools dedicated to mobile web d
 - [Articles and Documentation](#articles-and-documentation)
 - [Books](#books)
 - [Specifications from W3C for Enhancing Mobile Web Experience](#specifications-from-w3c-for-enhancing-mobile-web-experience)
+- [Talks](#talks)
 - [Performance Auditing](#performance-auditing)
 - [Platform Monitoring](#platform-monitoring)
-- [Talks](#talks)
 - [Tools and Libraries](#tools-and-libraries)
 
 
@@ -69,6 +69,15 @@ A curated list of useful articles, tutorials and tools dedicated to mobile web d
 - [Web Notifications](https://www.w3.org/TR/notifications/) - on an API for end-user notifications.
 
 
+## Talks
+
+- [Fundamentals of Mobile Web Development](https://www.youtube.com/watch?v=z6dg_V22wV0) - overview of the best practices for mobile web development, by Matt Gaunt.
+- [Future App Model: Advanced Service Worker](https://www.youtube.com/watch?v=J2dOTKBoTL4) - the glimpse on how to optimize web apps and sites using streams and service workers and other new APIs, by Jake Archibald.
+- [Instant Loading: Building offline-first Progressive Web Apps](https://www.youtube.com/watch?v=cmGr0RszHc8) - introduction to service workers, by Jake Archibald.
+- [Mobile Web Performance](https://www.youtube.com/watch?v=_y5IzI_tpTw) - what to do on your site to achieve the best possible mobile experience, by Estelle Weyl.
+- [Mobile Web Performance Auditing](https://www.youtube.com/watch?v=WrA85a4ZIaM) - how to audit performance issues on the site, by Paul Lewis.
+
+
 ## Performance Auditing
 
 - [Lighthouse](https://github.com/GoogleChrome/lighthouse) - analyzing tool for web apps and web pages.
@@ -84,15 +93,6 @@ A curated list of useful articles, tutorials and tools dedicated to mobile web d
 - [Mobile Browser Market Share](http://gs.statcounter.com/browser-market-share/mobile/) - market share between various platforms and countries.
 - [Standards for Web Applications on Mobile ](https://www.w3.org/Mobile/mobile-web-app-state) - current state of mobile-related W3C specifications.
 - [What Web Can Do Today](https://whatwebcando.today) - what your browser capable of.
-
-
-## Talks
-
-- [Fundamentals of Mobile Web Development](https://www.youtube.com/watch?v=z6dg_V22wV0) - overview of the best practices for mobile web development, by Matt Gaunt.
-- [Future App Model: Advanced Service Worker](https://www.youtube.com/watch?v=J2dOTKBoTL4) - the glimpse on how to optimize web apps and sites using streams and service workers and other new APIs, by Jake Archibald.
-- [Instant Loading: Building offline-first Progressive Web Apps](https://www.youtube.com/watch?v=cmGr0RszHc8) - introduction to service workers, by Jake Archibald.
-- [Mobile Web Performance](https://www.youtube.com/watch?v=_y5IzI_tpTw) - what to do on your site to achieve the best possible mobile experience, by Estelle Weyl.
-- [Mobile Web Performance Auditing](https://www.youtube.com/watch?v=WrA85a4ZIaM) - how to audit performance issues on the site, by Paul Lewis.
 
 
 ## Tools and Libraries
