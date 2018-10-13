@@ -1,6 +1,6 @@
 # Awesome Mobile Web Development [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of useful articles, tutorials and tools dedicated to mobile web development.
+All that you need to create a great mobile web experience.
 
 <a href="https://github.com/myshov/awesome-mobile-web-development/blob/master/CONTRIBUTING.md">Contribution Guidelines</a>
 
@@ -112,6 +112,6 @@ A curated list of useful articles, tutorials and tools dedicated to mobile web d
 
 ## License
 
-[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [@myshov](https://github.com/myshov) has waived all copyright and related or neighboring rights to this work.
