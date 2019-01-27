@@ -84,6 +84,7 @@ All that you need to create a great mobile web experience.
 - [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights) - The tool that analyzes your page and gives recommendations for increasing downloading speed.
 - [PageSpeed](https://www.modpagespeed.com) - Web server modules that optimize your site automatically.
 - [Site Speed Checker](https://www.thinkwithgoogle.com/feature/mobile) - Compare the speed of your mobile site to others.
+- [Test Your Mobile Speed](https://testmysite.withgoogle.com/intl/en-gb) - The tool from Google that performs comprehesive speed check of the mobile site.
 - [Webpagetest](https://webpagetest.org) - Website speed test from multiple locations using real browsers and at real consumer connection speeds.
 
 
