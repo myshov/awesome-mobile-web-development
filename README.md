@@ -110,6 +110,7 @@ All that you need to create a great mobile web experience.
 - [Web Starter Kit](https://github.com/google/web-starter-kit) - A workflow for multi-device websites.
 - [Workbox](https://developers.google.com/web/tools/workbox/) - JavaScript libraries for adding offline support to web apps.
 - [WorkerDOM](https://amphtml.wordpress.com/2018/08/21/workerdom/) - Library to provide a full representation of the DOM inside of Web Workers.
+- [Lozad.js](https://github.com/ApoorvSaxena/lozad.js) - Highly performant, light and configurable lazy loader using IntersectionObserver API
 
 
 ## License
