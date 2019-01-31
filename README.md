@@ -111,7 +111,8 @@ All that you need to create a great mobile web experience.
 - [Workbox](https://developers.google.com/web/tools/workbox/) - JavaScript libraries for adding offline support to web apps.
 - [WorkerDOM](https://amphtml.wordpress.com/2018/08/21/workerdom/) - Library to provide a full representation of the DOM inside of Web Workers.
 - [Lozad.js](https://github.com/ApoorvSaxena/lozad.js) - Highly performant, light and configurable lazy loader using IntersectionObserver API
-
+ - [Remote Debugging with chrome]( https://developers.google.com/web/tools/chrome-devtools/remote-debugging/
+) - Debug your app with Chrome DevTools.
 
 ## License
 
