@@ -24,6 +24,7 @@ All that you need to create a great mobile web experience.
 - [Autofill: What web devs should know, but don’t](https://cloudfour.com/thinks/autofill-what-web-devs-should-know-but-dont/) - Everything you need to know about forms autofill.
 - [Designing Websites for iPhone X](https://webkit.org/blog/7929/designing-websites-for-iphone-x/) - How to deal with "the notch" on iPhone X.
 - [Developing Mobile Web Applications: When, Why, and How](https://www.toptal.com/android/developing-mobile-web-apps-when-why-and-how) - The good high-level overview of mobile web development.
+- [Get Started with Remote Debugging Android Devices]( https://developers.google.com/web/tools/chrome-devtools/remote-debugging/) - Debug your web app on Adroid with Chrome DevTools.
 - [Guidelines For Mobile Web Development](https://www.smashingmagazine.com/guidelines-for-mobile-web-development/) - The compilation of good articles about mobile web development.
 - [How To Poison The Mobile User](https://www.smashingmagazine.com/2016/10/how-to-poison-the-mobile-user/) - An overview of negative practices on mobile sites.
 - [Learn AMP by Example](https://ampbyexample.com) - A hands-on introduction to Accelerated Mobile Pages focusing on code and live samples.
@@ -102,6 +103,7 @@ All that you need to create a great mobile web experience.
 - [Eruda](https://github.com/liriliri/eruda) - Console for mobile web browsers.
 - [Interact.js](https://github.com/taye/interact.js) - Drag and drop, resizing and multi-touch gestures with inertia and snapping for modern browsers.
 - [Fastclick](https://github.com/ftlabs/fastclick) - Removing of 300ms delay in old browsers.
+- [Lozad.js](https://github.com/ApoorvSaxena/lozad.js) - Highly performant, light and configurable lazy loader using IntersectionObserver API
 - [React Dates](https://github.com/airbnb/react-dates) - An easily internationalizable, mobile-friendly datepicker React library for the web.
 - [Shiny](https://github.com/rikschennink/shiny) - Shiny reflections for mobile websites
 - [Slideout](https://github.com/Mango/slideout) - Standalone and lightweight navigation menu for your mobile web apps.
@@ -110,9 +112,6 @@ All that you need to create a great mobile web experience.
 - [Web Starter Kit](https://github.com/google/web-starter-kit) - A workflow for multi-device websites.
 - [Workbox](https://developers.google.com/web/tools/workbox/) - JavaScript libraries for adding offline support to web apps.
 - [WorkerDOM](https://amphtml.wordpress.com/2018/08/21/workerdom/) - Library to provide a full representation of the DOM inside of Web Workers.
-- [Lozad.js](https://github.com/ApoorvSaxena/lozad.js) - Highly performant, light and configurable lazy loader using IntersectionObserver API
- - [Remote Debugging with chrome]( https://developers.google.com/web/tools/chrome-devtools/remote-debugging/
-) - Debug your app with Chrome DevTools.
 
 ## License
 
