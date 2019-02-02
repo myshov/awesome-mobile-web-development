@@ -35,7 +35,7 @@ All that you need to create a great mobile web experience.
 - [Mobile Web Development](https://developer.mozilla.org/en-US/docs/Web/Guide/Mobile) - Guideline (must read) from Mozilla about designing mobile websites.
 - [Mobile Web Performance Checklist](https://www.oreilly.com/ideas/mobile-web-performance-checklist) - Best practices for optimizing mobile web apps.
 - [Observing Intersection Observers](https://davidwalsh.name/intersection-observers) - An introduction to intersection observers.
-- [Offline First (Awesome List)](https://github.com/pazguille/offline-first) - The awesome list of offline-first stuff.
+- [Offline First (Awesome List)](https://github.com/pazguille/offline-first) - The awesome list of offline-first stuff (Progressive Web Apps, Service Workers etc.)
 - [Prevent Mobile Browser From Sleeping](https://davidwalsh.name/wake-lock-shim) - How to prevent your phone from sleeping.
 - [Responsive Web Design – What It Is And How To Use It](https://www.smashingmagazine.com/2011/01/guidelines-for-responsive-web-design/) - Overview of technics of responsive design.
 - [Rules for Mobile Performance Optimization](https://queue.acm.org/detail.cfm?id=2510122) - An overview of techniques to speed page loading.
