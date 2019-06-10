@@ -40,6 +40,7 @@ All that you need to create a great mobile web experience.
 - [Prevent Mobile Browser From Sleeping](https://davidwalsh.name/wake-lock-shim) - How to prevent your phone from sleeping.
 - [Responsive Web Design – What It Is And How To Use It](https://www.smashingmagazine.com/2011/01/guidelines-for-responsive-web-design/) - Overview of technics of responsive design.
 - [Rules for Mobile Performance Optimization](https://queue.acm.org/detail.cfm?id=2510122) - An overview of techniques to speed page loading.
+- [Self-Host Your Static Assets](https://csswizardry.com/2019/05/self-host-your-static-assets/) - Reason why you need to self-host your static assets.
 - [Timing Out](https://adactio.com/journal/15122) - A service worker strategy for dealing with lie-fi (a bad network connection).
 - [Tips for making interactive elements accessible on mobile devices](https://bitsofco.de/tips-for-making-interactive-elements-accessible-on-mobile-devices/) - List of advices on creating accessible mobile UI.
 - [Touch Devices Should Not Be Judged By Their Size](https://css-tricks.com/touch-devices-not-judged-size/) - Overview of interaction media features.
