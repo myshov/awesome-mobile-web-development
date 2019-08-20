@@ -86,9 +86,10 @@ All that you need to create a great mobile web experience.
 - [Mobile Web Performance Auditing](https://www.youtube.com/watch?v=WrA85a4ZIaM) - How to audit performance issues on the site, by Paul Lewis.
 
 
-## Performance Auditing Tools
+## Auditing Tools
 
 - [Lighthouse](https://github.com/GoogleChrome/lighthouse) - Analyzing tool for web apps and web pages.
+- [Mobile-Friendly Test](https://search.google.com/test/mobile-friendly) - Tool for testing that your site is mobile-friendly.
 - [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights) - The tool that analyzes your page and gives recommendations for increasing downloading speed.
 - [PageSpeed](https://www.modpagespeed.com) - Web server modules that optimize your site automatically.
 - [Site Speed Checker](https://www.thinkwithgoogle.com/feature/mobile) - Compare the speed of your mobile site to others.
