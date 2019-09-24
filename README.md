@@ -29,6 +29,7 @@ All that you need to create a great mobile web experience.
 - [Get Started with Remote Debugging Android Devices]( https://developers.google.com/web/tools/chrome-devtools/remote-debugging/) - Debug your web app on Adroid with Chrome DevTools.
 - [Guidelines For Mobile Web Development](https://www.smashingmagazine.com/guidelines-for-mobile-web-development/) - The compilation of good articles about mobile web development.
 - [How To Poison The Mobile User](https://www.smashingmagazine.com/2016/10/how-to-poison-the-mobile-user/) - An overview of negative practices on mobile sites.
+- [How Web Content Can Affect Power Usage](https://webkit.org/blog/8970/how-web-content-can-affect-power-usage/) - What you can do with web app to achieve better battery life.
 - [Learn AMP by Example](https://ampbyexample.com) - A hands-on introduction to Accelerated Mobile Pages focusing on code and live samples.
 - [Mobile Search UX 8 Obstacles](https://blog.algolia.com/mobile-search-ux-8-obstacles/) - Series of articles about mobile search UX.
 - [Mobile Web Best Practices](https://www.w3.org/TR/mobile-bp/) - A little bit out of date but still useful list of best practices for mobile websites from W3C.
@@ -41,6 +42,7 @@ All that you need to create a great mobile web experience.
 - [Responsive Web Design – What It Is And How To Use It](https://www.smashingmagazine.com/2011/01/guidelines-for-responsive-web-design/) - Overview of technics of responsive design.
 - [Rules for Mobile Performance Optimization](https://queue.acm.org/detail.cfm?id=2510122) - An overview of techniques to speed page loading.
 - [Self-Host Your Static Assets](https://csswizardry.com/2019/05/self-host-your-static-assets/) - Reason why you need to self-host your static assets.
+- [The joy and challenge of developing for KaiOS](https://nolanlawson.com/2019/09/22/the-joy-and-challenge-of-developing-for-kaios/) - How to start developing for KaiOS.
 - [Timing Out](https://adactio.com/journal/15122) - A service worker strategy for dealing with lie-fi (a bad network connection).
 - [Tips for making interactive elements accessible on mobile devices](https://bitsofco.de/tips-for-making-interactive-elements-accessible-on-mobile-devices/) - List of advices on creating accessible mobile UI.
 - [Touch Devices Should Not Be Judged By Their Size](https://css-tricks.com/touch-devices-not-judged-size/) - Overview of interaction media features.
