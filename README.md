@@ -84,6 +84,7 @@ All that you need to create a great mobile web experience.
 
 ## Talks
 
+- [Adaptive Loading - Improving web performance on slow devices](https://www.youtube.com/watch?v=puUPpVrIRkc&feature=emb_title) - Overview of practices for adapting a site to hardware and network constraints, by Addy Osmani, Nate Schloss.
 - [Fundamentals of Mobile Web Development](https://www.youtube.com/watch?v=z6dg_V22wV0) - Overview of the best practices for mobile web development, by Matt Gaunt.
 - [Future App Model: Advanced Service Worker](https://www.youtube.com/watch?v=J2dOTKBoTL4) - The glimpse on how to optimize web apps and sites using streams and service workers and other new APIs, by Jake Archibald.
 - [Instant Loading: Building offline-first Progressive Web Apps](https://www.youtube.com/watch?v=cmGr0RszHc8) - Introduction to service workers, by Jake Archibald.
