@@ -33,6 +33,7 @@ All that you need to create a great mobile web experience.
 - [How Web Content Can Affect Power Usage](https://webkit.org/blog/8970/how-web-content-can-affect-power-usage/) - What you can do with web app to achieve better battery life.
 - [HTML attributes to improve your users' two factor authentication experience](https://www.twilio.com/blog/html-attributes-two-factor-authentication-autocomplete) - On autocomplete attribute regarding 2fa.
 - [Learn AMP by Example](https://ampbyexample.com) - A hands-on introduction to Accelerated Mobile Pages focusing on code and live samples.
+- [Microbrowsers are Everywhere](https://24ways.org/2019/microbrowsers-are-everywhere/) - On optimizing sites for messengers.
 - [Mobile Search UX 8 Obstacles](https://blog.algolia.com/mobile-search-ux-8-obstacles/) - Series of articles about mobile search UX.
 - [Mobile Web Best Practices](https://www.w3.org/TR/mobile-bp/) - A little bit out of date but still useful list of best practices for mobile websites from W3C.
 - [Mobile Web Application Best Practices](https://www.w3.org/TR/mwabp/) - The list of best practices for mobile web applications from W3C.
