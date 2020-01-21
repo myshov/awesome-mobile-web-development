@@ -20,6 +20,7 @@ All that you need to create a great mobile web experience.
 
 - [300ms Tap Delay, Gone Away](https://developers.google.com/web/updates/2013/12/300ms-tap-delay-gone-away) - How to prevent 300 ms delay on tap.
 - [60 FPS on Mobile Web](http://engineering.flipboard.com/2015/02/mobile-web) - How to make a really fast mobile website (by Flipboard).
+- [Adaptive loading: improving web performance on slow devices](https://web.dev/adaptive-loading-cds-2019/) - How to optimize site for specific hardware and network constraints.
 - [Animating the Mobile Web](https://engineeringblog.yelp.com/2015/01/animating-the-mobile-web.html) - A case study on achieving fast animations on mobile web (by Yelp).
 - [Autofill: What web devs should know, but don’t](https://cloudfour.com/thinks/autofill-what-web-devs-should-know-but-dont/) - Everything you need to know about forms autofill.
 - [Cache-Control for Civilians](https://csswizardry.com/2019/03/cache-control-for-civilians/) - How to setup Cache-Control to achieve the best reponse time.
