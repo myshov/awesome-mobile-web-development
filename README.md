@@ -62,7 +62,7 @@ All that you need to create a great mobile web experience.
 - [Going Offline](https://abookapart.com/products/going-offline) - Guide on building offline experience with service workers.
 - [High-Performance Mobile Web: Best Practices for Optimizing Mobile Web Apps](https://www.amazon.com/High-Performance-Mobile-Web-Optimizing/dp/1491912553) - Book about the performance of the web on mobile devices.
 - [Mobile Design Pattern Gallery: UI Patterns for Smartphone Apps](https://www.amazon.com/Mobile-Design-Pattern-Gallery-Smartphone/dp/1449363636) - UI patterns which can be useful for mobile web apps.
-- [Mobile First](https://abookapart.com/products/mobile-first) - How to design sites for mobile devices.
+- [Mobile First](http://mobile-first.abookapart.com/) - How to design sites for mobile devices (free online version).
 - [Responsive Web Design](https://abookapart.com/products/responsive-web-design) - Book about responsive web design.
 
 
