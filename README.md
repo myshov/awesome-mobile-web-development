@@ -48,6 +48,7 @@ All that you need to create a great mobile web experience.
 - [Responsive Web Design – What It Is And How To Use It](https://www.smashingmagazine.com/2011/01/guidelines-for-responsive-web-design/) - Overview of technics of responsive design.
 - [Rules for Mobile Performance Optimization](https://queue.acm.org/detail.cfm?id=2510122) - An overview of techniques to speed page loading.
 - [Self-Host Your Static Assets](https://csswizardry.com/2019/05/self-host-your-static-assets/) - Reason why you need to self-host your static assets.
+- [The Impact of Web Performance](https://simplified.dev/performance/impact-of-web-performance) - On performance as a key factor for the business.
 - [The joy and challenge of developing for KaiOS](https://nolanlawson.com/2019/09/22/the-joy-and-challenge-of-developing-for-kaios/) - How to start developing for KaiOS.
 - [Timing Out](https://adactio.com/journal/15122) - A service worker strategy for dealing with lie-fi (a bad network connection).
 - [Tips for making interactive elements accessible on mobile devices](https://bitsofco.de/tips-for-making-interactive-elements-accessible-on-mobile-devices/) - List of advices on creating accessible mobile UI.
