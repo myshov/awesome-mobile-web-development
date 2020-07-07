@@ -58,6 +58,7 @@ All that you need to create a great mobile web experience.
 - [Web Fundamentals](https://developers.google.com/web/fundamentals/) - Guideline from Google about creating good mobile web experiences.
 - [What Does A Foldable Web Actually Mean?](https://www.smashingmagazine.com/2020/02/foldable-web-meaning/) - Musings on the impact of foldable phones on web.
 - [Who Killed My Battery](https://mobisocial.stanford.edu/papers/boneh-www2012.pdf) - An interesting paper about websites' power consumption.
+- [Things to Know Before Building a Career in Mobile App Development](https://www.techmediatoday.com/things-to-know-before-building-a-career-in-mobile-app-development/) - The most important things and factors to consider before becoming an app developer
 
 
 ## Books
