@@ -23,22 +23,29 @@ All that you need to create a great mobile web experience.
 - [Adaptive loading: improving web performance on slow devices](https://web.dev/adaptive-loading-cds-2019/) - How to optimize site for specific hardware and network constraints.
 - [Animating the Mobile Web](https://engineeringblog.yelp.com/2015/01/animating-the-mobile-web.html) - A case study on achieving fast animations on mobile web (by Yelp).
 - [Autofill: What web devs should know, but don’t](https://cloudfour.com/thinks/autofill-what-web-devs-should-know-but-dont/) - Everything you need to know about forms autofill.
+- [Back/forward cache](https://web.dev/bfcache/) - How to optimize site for navigation through the history.
+- [Benchmarking the global 5G experience](https://www.opensignal.com/2021/02/03/benchmarking-the-global-5g-experience) - A case study on prolifiration of 5G networks.
 - [Cache-Control for Civilians](https://csswizardry.com/2019/03/cache-control-for-civilians/) - How to setup Cache-Control to achieve the best reponse time.
 - [CSS fix for 100vh in mobile WebKit](https://allthingssmitty.com/2020/05/11/css-fix-for-100vh-in-mobile-webkit/) - How to fix issue with 100vh in mobile WebKit.
 - [Current Web on Galaxy Fold](https://medium.com/samsung-internet-dev/current-web-on-galaxy-fold-ad12d7f57c26) - An advices on web development for Galaxy Fold.
 - [Designing a Dark Theme for OLED iPhones](https://medium.com/lookup-design/designing-a-dark-theme-for-oled-iphones-e13cdfea7ffe) - On issues with dark themes on OLED displays and what to do with them.
 - [Designing Websites for iPhone X](https://webkit.org/blog/7929/designing-websites-for-iphone-x/) - How to deal with "the notch" on iPhone X.
 - [Developing Mobile Web Applications: When, Why, and How](https://www.toptal.com/android/developing-mobile-web-apps-when-why-and-how) - The good high-level overview of mobile web development.
+- [Enhance SMS-delivered code security with domain-bound codes](https://developer.apple.com/news/?id=z0i801mg) - On additional security measures for 2FA.
 - [Everyone has JavaScript, right?](https://kryogenix.org/code/browser/everyonehasjs.html) - A diagram that shows in which cases JavaScript can be unavailable.
+- [Faster Web App Delivery with PRPL](https://addyosmani.com/blog/the-prpl-pattern/) - On pattern for performant web applications.
 - [Get Started with Remote Debugging Android Devices]( https://developers.google.com/web/tools/chrome-devtools/remote-debugging/) - Debug your web app on Adroid with Chrome DevTools.
 - [Guidelines For Mobile Web Development](https://www.smashingmagazine.com/guidelines-for-mobile-web-development/) - The compilation of good articles about mobile web development.
+- [Hiding Videos on the Mobile Web](https://dougsillars.com/2020/01/06/hiding-videos-on-the-mbile-web/) - How to hide videos without an impact on mobile traffic.
 - [How To Poison The Mobile User](https://www.smashingmagazine.com/2016/10/how-to-poison-the-mobile-user/) - An overview of negative practices on mobile sites.
 - [How Web Content Can Affect Power Usage](https://webkit.org/blog/8970/how-web-content-can-affect-power-usage/) - What you can do with web app to achieve better battery life.
 - [HTML attributes to improve your users' two factor authentication experience](https://www.twilio.com/blog/html-attributes-two-factor-authentication-autocomplete) - On autocomplete attribute regarding 2fa.
+- [Interaction Media Features and Their Potential (for Incorrect Assumptions](https://css-tricks.com/interaction-media-features-and-their-potential-for-incorrect-assumptions/) - On detection of various input devices.
 - [Learn AMP by Example](https://ampbyexample.com) - A hands-on introduction to Accelerated Mobile Pages focusing on code and live samples.
 - [Loading web pages fast on a $20 feature phone](https://dev.to/addyosmani/loading-web-pages-fast-on-a-20-feature-phone-8h6) - Best practices for building web pages for feature phones.
 - [Measuring Network Performance in Mobile Safari](https://csswizardry.com/2021/02/measuring-network-performance-in-mobile-safari/) - An advices on using Mobile Safari for measuring network performance.
 - [Microbrowsers are Everywhere](https://24ways.org/2019/microbrowsers-are-everywhere/) - On optimizing sites for messengers.
+- [Mobile Performance Inequality Gap](https://infrequently.org/2021/03/the-performance-inequality-gap/) - Why you need to care of performance on cheap smartphones.
 - [Mobile Search UX 8 Obstacles](https://blog.algolia.com/mobile-search-ux-8-obstacles/) - Series of articles about mobile search UX.
 - [Mobile Web Best Practices](https://www.w3.org/TR/mobile-bp/) - A little bit out of date but still useful list of best practices for mobile websites from W3C.
 - [Mobile Web Application Best Practices](https://www.w3.org/TR/mwabp/) - The list of best practices for mobile web applications from W3C.
