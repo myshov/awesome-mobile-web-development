@@ -76,6 +76,7 @@ All that you need to create a great mobile web experience.
 - [Mobile Design Pattern Gallery: UI Patterns for Smartphone Apps](https://www.amazon.com/Mobile-Design-Pattern-Gallery-Smartphone/dp/1449363636) - UI patterns which can be useful for mobile web apps.
 - [Mobile First](http://mobile-first.abookapart.com/) - How to design sites for mobile devices (free online version).
 - [Responsive Web Design](https://abookapart.com/products/responsive-web-design) - Book about responsive web design.
+- [Tiny C# Projects](https://www.manning.com/books/tiny-c-sharp-projects) - Book about C# development.
 
 
 ## Specifications from W3C for Enhancing Mobile Web Experience
