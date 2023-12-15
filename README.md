@@ -62,6 +62,7 @@ All that you need to create a great mobile web experience.
 - [Timing Out](https://adactio.com/journal/15122) - A service worker strategy for dealing with lie-fi (a bad network connection).
 - [Tips for making interactive elements accessible on mobile devices](https://bitsofco.de/tips-for-making-interactive-elements-accessible-on-mobile-devices/) - List of advices on creating accessible mobile UI.
 - [Touch Devices Should Not Be Judged By Their Size](https://css-tricks.com/touch-devices-not-judged-size/) - Overview of interaction media features.
+- [Virtual makeup](https://docs.banuba.com/face-ar-sdk-v1/effect_api/makeup) - Augmented reality foundation, eyeshadow, lipstick, etc.
 - [Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/TR/WCAG21/) - Wide range of recommendations for making Web content more accessible.
 - [Web Fundamentals](https://developers.google.com/web/fundamentals/) - Guideline from Google about creating good mobile web experiences.
 - [What Does A Foldable Web Actually Mean?](https://www.smashingmagazine.com/2020/02/foldable-web-meaning/) - Musings on the impact of foldable phones on web.
