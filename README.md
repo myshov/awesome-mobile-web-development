@@ -22,6 +22,7 @@ All that you need to create a great mobile web experience.
 - [60 FPS on Mobile Web](http://engineering.flipboard.com/2015/02/mobile-web) - How to make a really fast mobile website (by Flipboard).
 - [Adaptive loading: improving web performance on slow devices](https://web.dev/adaptive-loading-cds-2019/) - How to optimize site for specific hardware and network constraints.
 - [Animating the Mobile Web](https://engineeringblog.yelp.com/2015/01/animating-the-mobile-web.html) - A case study on achieving fast animations on mobile web (by Yelp).
+- [Augmented reality kit for iOS](https://github.com/Banuba/quickstart-ios-swift) (also for [Android](https://github.com/Banuba/quickstart-android), [React Native](https://github.com/Banuba/quickstart-react-native) and [Flutter](https://github.com/Banuba/quickstart-flutter-plugin)) for face modifications (skin smoothing, teeth whitening, acne removal, etc.) as well as face filters and 3D masks.
 - [Autofill: What web devs should know, but don’t](https://cloudfour.com/thinks/autofill-what-web-devs-should-know-but-dont/) - Everything you need to know about forms autofill.
 - [Back/forward cache](https://web.dev/bfcache/) - How to optimize site for navigation through the history.
 - [Benchmarking the global 5G experience](https://www.opensignal.com/2021/02/03/benchmarking-the-global-5g-experience) - A case study on prolifiration of 5G networks.
