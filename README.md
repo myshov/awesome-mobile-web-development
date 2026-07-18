@@ -128,6 +128,7 @@ All that you need to create a great mobile web experience.
 ## Other Useful Tools and Libraries
 
 - [Browsersync](https://browsersync.io) - Time-saving synchronised browser testing.
+- [Tessera](https://app.tesserae.site) - Preview a site on many real mobile viewports at once. Live, interactive device tiles with synced scrolling.
 - [Eruda](https://github.com/liriliri/eruda) - Console for mobile web browsers.
 - [Interact.js](https://github.com/taye/interact.js) - Drag and drop, resizing and multi-touch gestures with inertia and snapping for modern browsers.
 - [Fastclick](https://github.com/ftlabs/fastclick) - Removing of 300ms delay in old browsers.
