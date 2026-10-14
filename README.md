@@ -133,6 +133,7 @@ All that you need to create a great mobile web experience.
 - [Fastclick](https://github.com/ftlabs/fastclick) - Removing of 300ms delay in old browsers.
 - [Lozad.js](https://github.com/ApoorvSaxena/lozad.js) - Highly performant, light and configurable lazy loader using IntersectionObserver API
 - [React Dates](https://github.com/airbnb/react-dates) - An easily internationalizable, mobile-friendly datepicker React library for the web.
+- [Responsive Tool](https://responsivetool.com/) - Compare how a site renders on mobile, tablet, and desktop side by side.
 - [Screen Sizes](http://screensiz.es/phone) - A list of screen sizes of all popular smartphones.
 - [Shiny](https://github.com/rikschennink/shiny) - Shiny reflections for mobile websites.
 - [Slideout](https://github.com/Mango/slideout) - Standalone and lightweight navigation menu for your mobile web apps.
