@@ -127,6 +127,7 @@ All that you need to create a great mobile web experience.
 
 ## Other Useful Tools and Libraries
 
+- [agent-qa](https://github.com/vostride/agent-qa) - Natural-language testing for web and mobile apps with advanced memidex memory and self-improvement.
 - [Browsersync](https://browsersync.io) - Time-saving synchronised browser testing.
 - [Eruda](https://github.com/liriliri/eruda) - Console for mobile web browsers.
 - [Interact.js](https://github.com/taye/interact.js) - Drag and drop, resizing and multi-touch gestures with inertia and snapping for modern browsers.
