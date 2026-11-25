@@ -57,6 +57,7 @@ All that you need to create a great mobile web experience.
 - [Responsive Web Design – What It Is And How To Use It](https://www.smashingmagazine.com/2011/01/guidelines-for-responsive-web-design/) - Overview of technics of responsive design.
 - [Rules for Mobile Performance Optimization](https://queue.acm.org/detail.cfm?id=2510122) - An overview of techniques to speed page loading.
 - [Self-Host Your Static Assets](https://csswizardry.com/2019/05/self-host-your-static-assets/) - Reason why you need to self-host your static assets.
+- [Swavent Guides](https://swavent.com/en/guides) - Free Shopify, ecommerce, SEO and web development guides.
 - [The Impact of Web Performance](https://simplified.dev/performance/impact-of-web-performance) - On performance as a key factor for the business.
 - [The joy and challenge of developing for KaiOS](https://nolanlawson.com/2019/09/22/the-joy-and-challenge-of-developing-for-kaios/) - How to start developing for KaiOS.
 - [Timing Out](https://adactio.com/journal/15122) - A service worker strategy for dealing with lie-fi (a bad network connection).
@@ -109,7 +110,6 @@ All that you need to create a great mobile web experience.
 ## Auditing Tools
 
 - [Lighthouse](https://github.com/GoogleChrome/lighthouse) - Analyzing tool for web apps and web pages.
-- [Mobile-Friendly Test](https://search.google.com/test/mobile-friendly) - Tool for testing that your site is mobile-friendly.
 - [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights) - The tool that analyzes your page and gives recommendations for increasing downloading speed.
 - [PageSpeed](https://www.modpagespeed.com) - Web server modules that optimize your site automatically.
 - [Site Speed Checker](https://www.thinkwithgoogle.com/feature/mobile) - Compare the speed of your mobile site to others.
